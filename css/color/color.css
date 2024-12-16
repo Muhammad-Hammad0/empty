@@ -1,71 +1,71 @@
 #header .opener-icons:hover {
-    background: #e74c3c;
+    background: blue;
 }
 
 #header .header-top a:hover {
-    color: #e74c3c;
+    color: blue;
 }
 
 #header .head-socialnetworks a:hover {
-    color: #e74c3c;
+    color: blue;
 }
 
 #nav a:hover {
-    color: #e74c3c;
+    color: blue;
 }
 
 #nav li:hover>a,
 #nav li.active>a {
-    color: #e74c3c;
+    color: blue;
 }
 
 #nav .nav-opener:hover {
-    background: #e74c3c;
-    border-color: #e74c3c;
+    background: blue;
+    border-color: blue;
 }
 
 .side-widget h3:after {
-    background: #e74c3c;
+    background: blue;
 }
 
 .side-widget a:hover {
-    color: #e74c3c;
+    color: blue;
 }
 
 .side-widget .btn {
-    background: #e74c3c;
-    border-color: #e74c3c;
+    background: blue;
+    border-color: blue;
 }
 
 .btn-f-info {
-    background: #e74c3c;
-    border-color: #e74c3c;
+    background: blue;
+    border-color: blue;
 }
 
 .btn-more:hover {
-    background: #e74c3c;
-    border-color: #e74c3c;
+    background: blue;
+    border-color: blue;
 }
 
 .page-banner .heading:before {
-    background: #e74c3c;
+    background: blue;
 }
 
 .page-banner .breadcrumbs a:hover {
-    color: #e74c3c;
+    color: blue;
 }
 
 .page-banner.grey .breadcrumbs a:hover {
-    color: #e74c3c;
+    color: blue;
 }
 
 .f-iconbox .icon {
-    color: #e74c3c;
-    border-color: #e74c3c;
+    color: blue;
+    border-color: blue;
 }
 
 .f-iconbox:hover .icon {
-    background: #e74c3c;
+    background: blue;
 }
 
 .progress-holder .text,
@@ -74,68 +74,68 @@
 }
 
 .isotop-controls li.active a {
-    background: #e74c3c;
+    background: blue;
 }
 
 .isotop-controls a:hover {
-    background: #e74c3c;
+    background: blue;
 }
 
 .portfolio-block .over .plus {
-    color: #e74c3c;
+    color: blue;
 }
 
 .portfolio-block .title:after {
-    background: #e74c3c;
+    background: blue;
 }
 
 .portfolio-block .link {
-    background: #e74c3c;
+    background: blue;
     color: #fff;
     opacity: .7;
 }
 
 .process-section .icon .num {
-    background: #e74c3c;
+    background: red;
 }
 
 .progress-holder .progress-bar-outer {
-    background: #e74c3c;
+    background: blue;
 }
 
 .core-section .list li:after {
-    color: #e74c3c;
+    color: blue;
 }
 
 .contact-address h3 .fa {
-    color: #e74c3c;
+    color: blue;
 }
 
 .contact-address a:hover {
-    color: #e74c3c;
+    color: blue;
 }
 
 #style-changer .list-style .btn2 {
-    background: #e74c3c;
-    border-color: #e74c3c;
+    background: blue;
+    border-color: blue;
 }
 
 #style-changer .list-style .btn2.add:hover {
-    background: #e74c3c;
-    border-color: #e74c3c;
+    background: blue;
+    border-color: blue;
 }
 
 #style-changer .changer-opener {
-    color: #e74c3c;
+    color: blue;
 }
 
 #gotoTop:hover,
 .footer-social a:hover {
-    background: #e74c3c;
+    background: blue;
 }
 
 .contact-form2 .btn-f-info {
-    color: #e74c3c;
+    color: blue;
 }
 
 #header.style15 .opener-icons:hover {
@@ -143,17 +143,17 @@
 }
 
 .port-single ul .fa {
-    color: #e74c3c;
+    color: blue;
 }
 
 #header.fixed-position #nav .nav-top>li:hover>a,
 #header.fixed-position #nav .nav-top>li.hover>a,
 #header.fixed-position #nav .nav-top>li.active>a {
-    color: #e74c3c;
+    color: blue;
 }
 
 #header.fixed-position #nav .nav-top>li>a:hover {
-    color: #e74c3c;
+    color: blue;
 }
 
 .dark .heading h2 {
@@ -161,25 +161,25 @@
 }
 
 .heading:after {
-    background: #e74c3c;
+    background: blue;
 }
 
 .error-section h1 {
-    color: #e74c3c;
+    color: blue;
 }
 
 .facts-section .num::after {
-    background: #e74c3c;
+    background: blue;
 }
 
 .devisInfos a span,
 .devisInfosContact a span {
-    color: #e74c3c;
+    color: blue;
 }
 
 .list-tags a {
     color: #fff;
-    background: #e74c3c;
+    background: blue;
 }
 
 .list-tags a:hover {
@@ -189,19 +189,19 @@
 
 .price-section .price:after,
 .price-section.style2 .box .heading:after {
-    background: #e74c3c;
+    background: red;
 }
 
 .price-section .btn,
 .price-section.style2 .box.active .btn,
 .price-section.style2 .box:hover .btn {
-    background: #e74c3c;
+    background: blue;
 }
 
 .col-icon {
-    color: #e74c3c;
+    color: red;
 }
 
 .portfolio-block .text-box h4::before {
-    background: #e74c3c;
+    background: blue;
 }
