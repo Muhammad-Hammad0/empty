@@ -207,7 +207,7 @@ body {
 }
 
 .isotop-controls a {
-    color: #222222;
+    color: blue;
     display: block;
     padding: 7px 20px;
     -webkit-transition: all 0.4s ease;
@@ -1068,7 +1068,8 @@ p.ouverture {
 }
 
 .marginTop16 {
-    margin-top: 34px;
+    margin-top: 30px;
+    background-color: grey;
 }
 
 .dark .port-single h1 {

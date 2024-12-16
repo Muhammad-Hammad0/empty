@@ -96,7 +96,7 @@ a:focus {
     bottom: 0;
     left: -9999px;
     right: -9999px;
-    background: #fff
+    background: #332828;
 }
 
 #header .header-top:after {
@@ -170,8 +170,9 @@ a:focus {
 #header.style15:after {
     top: 53px;
     opacity: .2;
-    background: #fff;
-    bottom: -16px !important
+    background: darkslategrey;
+    bottom: -16px !important;
+    opacity: 0.69;
 }
 
 #header.fixed-position {

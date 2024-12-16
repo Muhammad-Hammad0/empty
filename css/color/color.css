@@ -70,7 +70,7 @@
 
 .progress-holder .text,
 #work-filter li a:hover {
-    background: #f47a6d;
+    background: black;
 }
 
 .isotop-controls li.active a {
@@ -189,7 +189,7 @@
 
 .price-section .price:after,
 .price-section.style2 .box .heading:after {
-    background: red;
+    background: blue;
 }
 
 .price-section .btn,
@@ -199,7 +199,7 @@
 }
 
 .col-icon {
-    color: red;
+    color: blue;
 }
 
 .portfolio-block .text-box h4::before {
