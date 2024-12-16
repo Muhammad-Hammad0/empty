@@ -60,7 +60,7 @@ a:focus {
 
 #header .opener-icons {
     float: right;
-    color: #fff;
+    color: #000;
     font-size: 17px;
     padding: 5px 0 0;
     text-align: center;
@@ -168,7 +168,7 @@ a:focus {
 }
 
 #header.style15:after {
-    top: 53px;
+    top: 0px;
     opacity: .2;
     background: white;
     bottom: -16px !important;
@@ -311,9 +311,9 @@ a:focus {
 }
 
 #nav .nav-opener {
-    top: 0;
-    left: 15px;
-    color: #fff;
+    top: -6px;
+    left: 116px;
+    color: #000;
     z-index: 9999;
     display: none;
     padding: 5px 0 0;
@@ -321,11 +321,11 @@ a:focus {
     border-radius: 50%;
     width: 38px;
     height: 38px;
-    border: 2px solid #fff
+    border: 2px solid #fff;
 }
 
-#nav .nav-opener .txt {
-    display: none
+#nav .nav-opener {
+    display: block;
 }
 
 #nav .nav-opener .fa {
@@ -935,7 +935,7 @@ a:focus {
         -webkit-transform: rotate(180deg)
     }
     #nav .nav-opener {
-        display: block
+        display: block;
     }
     #nav .nav-holder {
         top: 0;
