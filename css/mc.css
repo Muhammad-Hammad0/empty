@@ -646,6 +646,7 @@ footer p a:hover {
 
 #header.style15 #nav .nav-top>li>a {
     display: block;
+    color: black;
     padding: 0 10px 29px;
     border-bottom: 4px solid transparent;
 }
@@ -1069,7 +1070,7 @@ p.ouverture {
 
 .marginTop16 {
     margin-top: 30px;
-    background-color: grey;
+    background-color: white;
 }
 
 .dark .port-single h1 {
@@ -2570,7 +2571,7 @@ hr.hr-tags {
     display: inline-block;
     white-space: nowrap;
     top: 0;
-    color: #e5e5e5;
+    color: black;
     font: 50px/60px "Poppins", "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-weight: bolder;
 }

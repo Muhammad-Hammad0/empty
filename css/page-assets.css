@@ -170,11 +170,10 @@ a:focus {
 #header.style15:after {
     top: 53px;
     opacity: .2;
-    background: darkslategrey;
+    background: white;
     bottom: -16px !important;
-    opacity: 0.69;
+    opacity: 1.69;
 }
-
 #header.fixed-position {
     top: 0;
     left: 0;
