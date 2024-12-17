@@ -337,7 +337,8 @@ img {
     height: auto;
     max-width: 100%;
     align-items: center;
-    margin-left: 400px;
+    margin-left: 125px;
+    margin-top: 68px;
 }
 
 .img-rounded {
@@ -1144,7 +1145,7 @@ pre code {
     }
     .col-sm-3 {
         width: 25%;
-        margin-left: -121px;
+        margin-left: -14px;
     }
     .col-sm-2 {
         width: 16.666666666666664%
@@ -1461,7 +1462,7 @@ pre code {
         float: left
     }
     .col-lg-12 {
-        width: 100%
+        width: 75%
     }
     .col-lg-11 {
         width: 91.66666666666666%
