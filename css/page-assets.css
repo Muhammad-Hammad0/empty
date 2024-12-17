@@ -237,10 +237,9 @@ a:focus {
     margin-bottom: 22px
 }
 
-#header.fixed-position .nav-opener,
-#header.fixed-position .opener-icons {
-    color: #666;
-    border-color: #666
+#header.fixed-position .nav-opener, #header.fixed-position .opener-icons {
+    color: white;
+    border-color: white;
 }
 
 .dark #header.fixed-position .nav-opener,
@@ -326,6 +325,8 @@ a:focus {
 
 #nav .nav-opener {
     display: block;
+    color: white;
+   
 }
 
 #nav .nav-opener .fa {
@@ -935,8 +936,9 @@ a:focus {
         -webkit-transform: rotate(180deg)
     }
     #nav .nav-opener {
-        display: block;
-    }
+    display: block;
+    color: black;
+}
     #nav .nav-holder {
         top: 0;
         bottom: 0;
@@ -1065,7 +1067,7 @@ a:focus {
     }
     #header.fixed-position .nav-opener,
     #header.fixed-position .opener-icons {
-        color: #fff;
+        color: #000;
         border-color: #fff
     }
     #header.fixed-position .nav-opener:hover,

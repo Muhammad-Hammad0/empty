@@ -335,7 +335,9 @@ img {
 .img-responsive {
     display: block;
     height: auto;
-    max-width: 100%
+    max-width: 100%;
+    align-items: center;
+    margin-left: 400px;
 }
 
 .img-rounded {
@@ -1133,13 +1135,16 @@ pre code {
         width: 50%
     }
     .col-sm-5 {
-        width: 41.66666666666667%
+        width: 86%;
+        margin-left: 184px;
+        margin-top: -154px;
     }
     .col-sm-4 {
         width: 33.33333333333333%
     }
     .col-sm-3 {
-        width: 25%
+        width: 25%;
+        margin-left: -121px;
     }
     .col-sm-2 {
         width: 16.666666666666664%
@@ -1311,7 +1316,7 @@ pre code {
         width: 33.33333333333333%
     }
     .col-md-3 {
-        width: 25%
+        width: 100%
     }
     .col-md-2 {
         width: 16.666666666666664%

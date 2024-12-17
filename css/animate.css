@@ -1269,7 +1269,10 @@
 
 .fadeInRight {
     -webkit-animation-name: fadeInRight;
-    animation-name: fadeInRight;
+    animation-name: fadeIndown;
+    margin-top: 256px;
+    font-size: 16px;
+   
 }
 
 @-webkit-keyframes fadeInRightBig {

@@ -1119,7 +1119,7 @@ body.boxed-v #wrapper {
 }
 
 .facts-section p {
-    margin: 0 0 29px;
+    margin: 2px -338px 17px;
 }
 
 .facts-section .box {
@@ -2438,7 +2438,7 @@ hr.hr-tags {
 }
 
 .nav_smartphone {
-    background: #222;
+    background: white;
     position: fixed;
     width: 100%;
     top: 0;
